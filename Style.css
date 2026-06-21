@@ -100,10 +100,11 @@ nav{
         object-fit: cover !important;
     }
     .Profile-pic{
-        margin: auto !important;
-        width: 180px !important;
-        height: 180px !important;
-        display: block !important;
+        margin: 0 10px 0 0 !important;
+        width: 40px !important;
+        height: 40px !important;
+        border-radius: 50% !important;
+        display: inline-block !important;
         visibility: visible !important;
         opacity: 1 !important;
         object-fit: cover !important;
