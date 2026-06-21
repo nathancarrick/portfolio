@@ -64,8 +64,11 @@ nav{
 }
 
 #Home{
-    min-height: 50vh;
-    padding-top: 80px;
+    min-height: 80vh;
+        padding-top: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
 }
 
 /*Button Round Corner*/
